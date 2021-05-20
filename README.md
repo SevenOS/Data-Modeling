@@ -5,5 +5,5 @@ In this lesson, we will learn the basic difference between relational and non-re
 
 **Database Management System (DBMS):** The software used to access the database by the user and application is the database management system. Check out these few links describing a DBMS in more detail.
 
-1 - [Introduction to DBMS](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
-2 - [DBMS as per Wikipedia](https://en.wikipedia.org/wiki/Database#Database_management_system)
+1. [Introduction to DBMS](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
+2. [DBMS as per Wikipedia](https://en.wikipedia.org/wiki/Database#Database_management_system)
